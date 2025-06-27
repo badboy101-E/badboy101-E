@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @badboy101-E
 - 👀 I’m interested in kubernetes and docker 
 - 🌱 I’m currently learning bashshell
+- I‘m a bug maker now
 
 
 <!---
